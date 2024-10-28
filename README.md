@@ -5,7 +5,7 @@
 </div>
 
 ### About Me
-I'm a data enthusiast intersted in building scalable data platforms and ML systems. I believe data is the catalyst that will propel us into the future, and I love tackling complex problems that accelerate this transformation. Whether I'm building data pipelines, implementing ML systems, or contributing to open source, my goal is to be part of the cutting edge and keep pushing my own learning.
+I'm a data enthusiast intersted in building scalable data platforms and ML systems/applications. 
 
 ### Currently I'm..
 📚 Studying Statistics & Economics @ UBC  
