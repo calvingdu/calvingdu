@@ -1,7 +1,7 @@
 # Hi, I'm Calvin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="left">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Statistics+and+Economics+@+UBC;Open-Source+Contributor;Racket+\+Paddle+Sport+Enjoyer" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Statistics+and+Economics+@+UBC;Open-Source+Contributor;Racket+\+Paddle+Sport+Enthusiast" alt="Typing SVG" />
 </div>
 
 ### About Me
