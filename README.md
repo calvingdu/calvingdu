@@ -10,7 +10,7 @@ I'm a data enthusiast intersted in building scalable data platforms and ML syste
 ### Currently I'm..
 📚 Studying Statistics & Economics @ UBC  
 
-🛠 Working as a Data Engineer Intern @ Samsung Research  
+🛠 Working as a Data Engineer Intern @ Tesla
 
 🌟 Contributing to open source (GreatExpectations Champion!)  
 
